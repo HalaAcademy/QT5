@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64" height="64"
+     viewBox="0 0 64 64">
+  <!-- Vòng tròn viền đỏ -->
+  <circle cx="32" cy="32" r="28"
+          fill="none" stroke="#D32F2F" stroke-width="5"/>
+  
+  <!-- Dấu chấm than -->
+  <rect x="30" y="17" width="4" height="22" fill="#D32F2F"/>
+  <circle cx="32" cy="47" r="3" fill="#D32F2F"/>
+</svg>

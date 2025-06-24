@@ -1,0 +1,5 @@
+/home/vicerpham/HALA Academy/IVI_Project/IVIShell/build/CMakeFiles/IVIQuickTest.dir
+/home/vicerpham/HALA Academy/IVI_Project/IVIShell/build/CMakeFiles/edit_cache.dir
+/home/vicerpham/HALA Academy/IVI_Project/IVIShell/build/CMakeFiles/rebuild_cache.dir
+/home/vicerpham/HALA Academy/IVI_Project/IVIShell/build/CMakeFiles/IVIQuickTest_autogen_timestamp_deps.dir
+/home/vicerpham/HALA Academy/IVI_Project/IVIShell/build/CMakeFiles/IVIQuickTest_autogen.dir

@@ -1,0 +1,7 @@
+<svg width="56" height="32" viewBox="0 0 56 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Không nền, chỉ chữ trắng, căn giữa -->
+  <text x="28" y="14" font-family="Arial" font-size="12" fill="#ffffff"
+        font-weight="bold" text-anchor="middle" alignment-baseline="middle">ECO</text>
+  <text x="28" y="25" font-family="Arial" font-size="12" fill="#ffffff"
+        font-weight="bold" text-anchor="middle" alignment-baseline="middle">MODE</text>
+</svg>

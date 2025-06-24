@@ -1,0 +1,6 @@
+{
+    "name": "Home",
+    "entry": "App.qml",
+    "icon": "icon.png",
+    "default": true
+}

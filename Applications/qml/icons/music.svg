@@ -1,0 +1,7 @@
+<!-- music.svg -->
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" stroke="white" stroke-width="3">
+  <circle cx="18" cy="36" r="5"/>
+  <circle cx="34" cy="30" r="5"/>
+  <line x1="23" y1="36" x2="23" y2="12"/>
+  <line x1="23" y1="12" x2="39" y2="18"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64"
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- Vòng lớn nhất -->
+  <path d="M8 28 Q32 12 56 28" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <!-- Vòng giữa -->
+  <path d="M16 36 Q32 24 48 36" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <!-- Vòng nhỏ -->
+  <path d="M24 44 Q32 36 40 44" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <!-- Chấm trung tâm -->
+  <circle cx="32" cy="52" r="4" fill="#FFFFFF"/>
+</svg>

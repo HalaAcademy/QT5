@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/LeftPanel.qml</file>
+        <file>qml/BottomBar.qml</file>
+        <file>qml/components/AppsButton.qml</file>
+        <file>qml/components/BatteryIndicator.qml</file>
+        <file>qml/components/Clock.qml</file>
+        <file>qml/components/DrivingMode.qml</file>
+        <file>qml/components/EnergyRecovery.qml</file>
+        <file>qml/components/AcceleratorStatus.qml</file>
+        <file>qml/components/GearStatus.qml</file>
+        <file>qml/components/HomeButton.qml</file>
+        <file>qml/components/SettingsButton.qml</file>
+        <file>qml/components/SpeedDisplay.qml</file>
+        <file>qml/components/VehicleStatus.qml</file>
+        <file>qml/components/TripCard.qml</file>
+        <file>qml/components/TurnSignal.qml</file>
+        <file>qml/components/WarningIcon.qml</file>
+        <file>qml/AppContainer.qml</file>
+        <file>qml/QuickSettingsPanel.qml</file>
+        <file>qml/QuickSettingButton.qml</file>
+
+        <file>qml/icons/apps.svg</file>
+        <file>qml/icons/home.svg</file>
+        <file>qml/icons/settings.svg</file>
+        <file>qml/icons/turn_left_off.svg</file>
+        <file>qml/icons/turn_left_on.svg</file>
+        <file>qml/icons/turn_right_off.svg</file>
+        <file>qml/icons/turn_right_on.svg</file>
+        <file>qml/icons/warning_brake.svg</file>
+        <file>qml/icons/warning_engine.svg</file>
+        <file>qml/icons/warning_door.svg</file>
+        <file>qml/icons/regen_arrow.svg</file>
+        <file>qml/icons/brake_level.svg</file>
+        <file>qml/icons/bolt.svg</file>
+        <file>qml/icons/wifi.svg</file>
+        <file>qml/icons/phone.svg</file>
+        <file>qml/icons/eco_mode.svg</file>
+        <file>qml/icons/tent.svg</file>
+        <file>qml/icons/headset.svg</file>
+        <file>qml/icons/video.svg</file>
+    </qresource>
+</RCC>

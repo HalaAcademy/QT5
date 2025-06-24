@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64"
+     xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#0099FF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Đường chéo chính -->
+    <polyline points="32,8 32,56"/>
+    <!-- Tam giác phải trên -->
+    <polyline points="32,32 48,20 32,8"/>
+    <!-- Tam giác phải dưới -->
+    <polyline points="32,32 48,44 32,56"/>
+    <!-- Gạch trái trên -->
+    <line x1="32" y1="32" x2="18" y2="20"/>
+    <!-- Gạch trái dưới -->
+    <line x1="32" y1="32" x2="18" y2="44"/>
+  </g>
+</svg>

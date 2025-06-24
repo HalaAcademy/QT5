@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64" height="64"
+     viewBox="0 0 64 64">
+  <!-- Thân động cơ -->
+  <rect x="14" y="22" width="28" height="20" 
+        fill="#D32F2F" stroke="#B71C1C" stroke-width="3"/>
+        
+  <!-- Đầu động cơ -->
+  <rect x="42" y="26" width="8" height="12" 
+        fill="#D32F2F" stroke="#B71C1C" stroke-width="3"/>
+  
+  <!-- Ống khí thải -->
+  <polyline points="50,30 56,30 56,38 50,38" 
+            fill="none" stroke="#B71C1C" stroke-width="3"/>
+  
+  <!-- Chấm than cảnh báo -->
+  <rect x="27" y="17" width="4" height="12" fill="#FFFFFF"/>
+  <circle cx="29" cy="33" r="3" fill="#FFFFFF"/>
+</svg>
