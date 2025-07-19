@@ -1,3 +1,2 @@
 E: test abc
-E: 
-![img](https://raw.githubusercontent.com/HalaAcademy/QT5/main/image/20250719-173456.jpeg)
+![img](https://raw.githubusercontent.com/HalaAcademy/QT5/main/image/20250719-220747.jpeg)
