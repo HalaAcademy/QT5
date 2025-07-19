@@ -1,3 +1,0 @@
-E: test
-E: test 3
-![img](https://raw.githubusercontent.com/HalaAcademy/QT5/main/image/20250719-082244.jpeg)
