@@ -1,2 +1,3 @@
 Không thể đọc nội dung file!
 E: test abc
+E: test 2
