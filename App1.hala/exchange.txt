@@ -4,3 +4,4 @@ E: test 2
 E: test 4
 E: test 5
 E: abc
+E: test 8
