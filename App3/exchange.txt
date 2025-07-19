@@ -1,6 +1,0 @@
-Không thể đọc nội dung file!
-E: test
-E: abc
-E: av
-E: abc
-E: fgh
